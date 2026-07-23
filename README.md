@@ -29,14 +29,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolina-img&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carolina-img&theme=dracula" />
 </div>
 
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-img&layout=compact&theme=dracula&langs_count=5" height="150" alt="Most Used Languages" />
-</div>
-
-###
+ 
