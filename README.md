@@ -25,12 +25,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carolina-img&theme=dracula" />
-</div>
-
-
+ 
  
