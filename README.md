@@ -1,7 +1,5 @@
 ## Hi there
 
-<img data-importer="image" align="right" height="150" src=""  />
-
 ###
 
 <div data-importer="techs" align="left">
