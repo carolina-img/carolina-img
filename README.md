@@ -1,7 +1,9 @@
-## Hi there
+### Hi there
 
-###
+---
 
+<div align="center">
+  
 ### Tech Stack
 
 <div data-importer="techs" align="center">
@@ -27,7 +29,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
+</div>
 
+<div align="center">
+  
 ### Connect with me
 
 <div data-importer="socials" align="center">
@@ -35,5 +40,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
- 
- 
+</div>
+ ---
