@@ -2,7 +2,7 @@
 
 ###
 
-Tech Stack
+#### Tech Stack
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -28,9 +28,9 @@ Tech Stack
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
---- 
+----
 
-Connect with me
+#### Connect with me
 
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/carolina-gonçalves-a057292b5/" target="_blank">
