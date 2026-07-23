@@ -1,4 +1,4 @@
-## Hi👋
+## Hi there
 
 <img data-importer="image" align="right" height="150" src=""  />
 
