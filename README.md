@@ -28,11 +28,10 @@
 
 ###
 
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/carolina-gonçalves-a057292b5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolina-img&theme=dracula" />
 </div>
+
 
 ###
 
