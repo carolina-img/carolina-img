@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<h2 data-importer="text" align="left"></h2>
-
-###
+## Hi👋
 
 <img data-importer="image" align="right" height="150" src=""  />
 
